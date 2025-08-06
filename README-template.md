@@ -82,8 +82,9 @@ ul a:hover {
   color: black;
   transform: scale(1.05);
 }
+```
 
-## Author
+### Author
 
 - Website – [Racheal’s Portfolio](https://olayoderacheal.netlify.app/)
 - Frontend Mentor – [@Ifeoluwayemisi](https://www.frontendmentor.io/profile/Ifeoluwayemisi)
